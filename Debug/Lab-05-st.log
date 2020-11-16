@@ -1,0 +1,42 @@
+﻿  Source.cpp
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\RandomNumber.h(16,65): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\RandomNumber.h(42,76): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\RandomNumber.h(53,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\RandomNumber.h(55,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\RandomNumber.h(55,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Random.h(31,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(34,61): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(34,46): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(38,55): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(38,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user-pc\source\repos\Lab-05-st\Lab-05-st\Header.h(75,21): warning C4018: '<': signed/unsigned mismatch
+  Lab-05-st.vcxproj -> C:\Users\user-pc\source\repos\Lab-05-st\Debug\Lab-05-st.exe
