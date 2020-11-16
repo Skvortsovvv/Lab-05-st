@@ -1,2 +1,2 @@
 # Lab-05-st
-![alt text](Лаба 5.PNG)
+![alt text](/lab5.PNG)
